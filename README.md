@@ -9,7 +9,7 @@ This repository documents the setup of a Kali Linux virtual machine using Oracle
 1.	Installed VirtualBox on the host machine
 2.	Downloaded the official Kali Linux VM image
 3.	Set network adapter to NAT for internet access
-   <img width="1518" height="806" alt="image" src="https://github.com/user-attachments/assets/66fec8fa-8e94-46fc-a5a2-873d7791641e" />
+<img width="1518" height="806" alt="image" src="https://github.com/user-attachments/assets/66fec8fa-8e94-46fc-a5a2-873d7791641e" />
 
 4.	Imported the VM into VirtualBox and configured RAM/CPU/storage
 5.	Booted Kali Linux and verified successful installation
@@ -17,6 +17,7 @@ This repository documents the setup of a Kali Linux virtual machine using Oracle
 <img width="1518" height="806" alt="image" src="https://github.com/user-attachments/assets/96f80f6a-b0d1-402d-9f09-dbe940707cd6" />
 
 8.	Took a baseline snapshot of the fresh VM for easy rollback before future labs
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/7bda1ce9-373f-4479-8f19-e03c95c1e5d0" />
 
 # What I Learned
 
